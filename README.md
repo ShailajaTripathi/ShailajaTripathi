@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🔭 I’m Full Stack Web Developer
-🌱 I’m currently learning new technologies.
-👯 I’m looking to collaborate on Web Development
+🔭 I’m Full Stack Web Developer. \
+🌱 I’m currently learning new technologies.\
+👯 I’m looking to collaborate on Web Development.\
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🌱 &nbsp;I'm on track for learning more about MERN Stack,Cloud Architecture.\
 💬 &nbsp;Feel free to reach out to me for any kind of projects, or just for some interesting discussion.\
