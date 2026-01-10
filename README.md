@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shailaja Tripathi</h1>
+<h1 align="center">Hi👋, I'm Shailaja Tripathi</h1>
 <h3 align="center">A Web Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shailajatripathi&label=Profile%20views&color=0e75b6&style=flat" alt="shailajatripathi" /> </p>
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently learning **new technology**
 
-- 🌱 I’m currently learning **ReactJs and new tech languages**
+- 🌱 I’m currently learning **new tech languages**
 
 - 👯 I’m looking to collaborate on **Web Projects**
 
