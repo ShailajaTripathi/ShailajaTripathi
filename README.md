@@ -1,41 +1,153 @@
-<h1 align="center">Hi👋, I'm Shailaja Tripathi</h1>
-<h3 align="center">A Web Developer from India</h3>
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrng4igz/giphy.gif" width="30px"> Shailaja Tripathi
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shailajatripathi&label=Profile%20views&color=0e75b6&style=flat" alt="shailajatripathi" /> </p>
+**React Frontend Developer** | 1.6+ Years of Experience | India
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shailajatripathi" alt="shailajatripathi" /></a> </p>
+Building performant, scalable web applications with modern React architecture. Specialized in frontend optimization, state management, and delivering pixel-perfect UI implementations.
 
-- 🔭 I’m currently learning **new technology**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shailaja-tripathi-3bb847193/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:shailaja24305@gmail.com)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white)](https://hashnode.com/@shailajatripathi)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/shailajatripathi)
 
-- 🌱 I’m currently learning **new tech languages**
+---
 
-- 👯 I’m looking to collaborate on **Web Projects**
+## 💼 Professional Overview
 
-- 👨‍💻 All of my projects are available at [https://61aa0c261eb676359b886d82--boring-knuth-a6033b.netlify.app/](https://61aa0c261eb676359b886d82--boring-knuth-a6033b.netlify.app/)
+Frontend Developer with 1.6+ years of hands-on experience building high-performance React applications. Strong expertise in component architecture, performance optimization, and modern state management solutions. Committed to writing clean, maintainable code and delivering exceptional user experiences.
 
-- 📝 I regularly write articles on [https://hashnode.com/@shailajatripathi](https://hashnode.com/@shailajatripathi)
+---
 
-- 💬 Ask me about **Frontend technologies**
+## 🛠️ Technical Expertise
 
-- 📫 How to reach me **shailaja24305@gmail.com**
+**Frontend Stack:**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KYHp5VCqD92f29swJfJtn-VBBPpIHYuO/view](https://drive.google.com/file/d/1KYHp5VCqD92f29swJfJtn-VBBPpIHYuO/view)
+**Core Competencies:**
+- React.js & Component Architecture
+- Redux Toolkit & State Management
+- JavaScript (ES6+) & Advanced DOM Manipulation
+- CSS3, Responsive Design & Bootstrap
+- Performance Optimization & Code Splitting
+- RESTful APIs Integration
+- Web Performance Metrics & Optimization
 
-- ⚡ Fun fact **Music is world within myself**
+**Backend & Database:**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shailajatripa10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shailajatripa10" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shailaja tripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shailaja tripathi" height="30" width="40" /></a>
-<a href="https://codesandbox.com/shailaja24305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shailaja24305" height="30" width="40" /></a>
-<a href="https://fb.com/shailaja tripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shailaja tripathi" height="30" width="40" /></a>
-<a href="https://instagram.com/shailaja.tripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shailaja.tripathi" height="30" width="40" /></a>
-<a href="https://hashnode.com/shailaja tripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="shailaja tripathi" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 🎓 Certifications & Learning
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shailajatripathi&show_icons=true&locale=en&layout=compact" alt="shailajatripathi" /></p>
+- **Namaste React** - Namaste Dev *(Advanced React Architecture, Hooks, Performance Optimization)*
+- **Namaste JavaScript** - Namaste Dev *(JavaScript Fundamentals, Closures, Async Programming)*
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shailajatripathi&show_icons=true&locale=en" alt="shailajatripathi" /></p>
+---
+
+## 🚀 Featured Projects
+
+### **QuickBite** - Food Delivery Platform
+Real-time Full-stack food ordering platform with seamless user experience. Built with React for interactive UI, Redux Toolkit for scalable state management, and Firebase for real-time order updates.
+
+**Key Achievements:**
+- 45% improvement in initial load time through code splitting and lazy loading
+- Implemented optimized component architecture reducing unnecessary re-renders
+- Built responsive design supporting mobile-first approach
+
+**Tech Stack:** React | Redux Toolkit | Express.js | JavaScript ES6+ | CSS3 | Bootstrap
+
+---
+
+### **DineHub** - Restaurant Discovery App
+Advanced restaurant discovery and reservation system with filtering, ratings, and real-time availability.
+
+**Key Achievements:**
+- 60% improvement in page load performance using React optimization techniques
+- Implemented advanced filtering and search functionality
+- Integrated payment gateway for seamless transactions
+- Optimized rendering with useMemo and useCallback hooks
+
+**Tech Stack:** React | JavaScript | CSS3 | MongoDB | Node.js | Firebase
+
+---
+
+### **ProDash** - Project Management Dashboard
+Comprehensive dashboard for real-time project tracking with collaboration features, analytics, and data visualization.
+
+**Key Achievements:**
+- Built complex state management using Redux Toolkit
+- Implemented real-time updates with optimized rendering
+- Created interactive charts and analytics components
+- Achieved 50% reduction in bundle size through code splitting
+
+**Tech Stack:** React | Redux Toolkit | JavaScript | CSS3 | Data Visualization 
+
+---
+
+## 💡 Key Competencies
+
+| Category | Skills |
+|----------|--------|
+| **Frontend Framework** | React (Hooks, Context API, Custom Hooks) |
+| **State Management** | Redux Toolkit, Context API |
+| **Performance** | Code Splitting, Lazy Loading, Memoization, Optimization |
+| **Development** | ES6+, REST APIs, Responsive Design, Cross-browser Compatibility |
+| **Tools & Build** | Git, Webpack, Babel, Package Management |
+| **Backend Basics** | Node.js, Express, Database Design |
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shailajatripathi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shailajatripathi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</div>
+
+---
+
+## 📝 Technical Writing & Knowledge Sharing
+
+Actively sharing knowledge on **Hashnode** covering:
+- React best practices and optimization techniques
+- JavaScript fundamentals and advanced concepts
+- Frontend performance strategies
+- Component architecture patterns
+
+[Read my articles on Hashnode](https://hashnode.com/@shailajatripathi)
+
+---
+
+## 🎯 Professional Goals & Interests
+
+- **Specialization:** Building scalable React applications with performance optimization as core focus
+- **Growth Areas:** Advanced React patterns, Web Performance, System Design
+- **Open to:** Collaborating on React projects, mentoring, and technical knowledge sharing
+- **Passion:** Writing clean, maintainable code and solving complex frontend challenges
+
+---
+
+## 💬 Let's Connect & Collaborate
+
+I'm interested in opportunities involving:
+- ✨ Building high-performance React applications
+- 🎯 Frontend optimization and performance enhancement projects
+- 🤝 Open-source contributions and community involvement
+- 📚 Technical mentorship and knowledge exchange
+
+**Get in Touch:**
+- 📧 Email: [shailaja24305@gmail.com](mailto:shailaja24305@gmail.com)
+- 💼 LinkedIn: [Shailaja Tripathi](https://www.linkedin.com/in/shailaja-tripathi-3bb847193/)
+- 🐙 GitHub: [@shailajatripathi](https://github.com/shailajatripathi)
+- 📖 Blog: [Hashnode](https://hashnode.com/@shailajatripathi)
+
+---
+
