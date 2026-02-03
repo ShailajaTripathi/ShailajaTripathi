@@ -60,7 +60,7 @@ Real-time Full-stack food ordering platform with seamless user experience. Built
 **Key Achievements:**
 - 45% improvement in initial load time through code splitting and lazy loading
 - Implemented optimized component architecture reducing unnecessary re-renders
-- Built responsive design supporting mobile-first approach
+- Built a responsive design supporting mobile-first approach
 
 **Tech Stack:** React | Redux Toolkit | Express.js | JavaScript ES6+ | CSS3 | Bootstrap
 
